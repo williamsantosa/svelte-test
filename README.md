@@ -1,5 +1,7 @@
 # sv
 
+Tutorial from [this link](https://www.youtube.com/watch?v=8DQailPy3q8), currently at 57:05.
+
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
 │  1: git init && git add -A && git commit -m "Initial commit" (optional)  │
